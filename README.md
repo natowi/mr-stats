@@ -39,3 +39,8 @@ https://tooomm.github.io/github-release-stats/?username=alicevision&repository=m
 
 # Fosshub downloads 2018-12/2021
 1.026.767 Releases were downloaded via Fosshub ever since
+
+# Google Search Stats
+
+![grafik](https://user-images.githubusercontent.com/8138537/145682345-b1120ba2-1568-47c2-b321-5bde0944b7b7.png)
+
