@@ -44,3 +44,43 @@ https://tooomm.github.io/github-release-stats/?username=alicevision&repository=m
 
 ![grafik](https://user-images.githubusercontent.com/8138537/145682345-b1120ba2-1568-47c2-b321-5bde0944b7b7.png)
 
+https://trends.google.com/trends/explore?date=all&q=agisoft,Meshroom,%2Fg%2F11c0rpp8sf
+
+Searches by country
+
+| Country        | Meshroom: (01.01.04 bis 11.12.21) |
+| -------------- | --------------------------------- |
+| Czech Republic | 100                               |
+| Finland        | 79                                |
+| Austria        | 75                                |
+| Switzerland    | 60                                |
+| Sweden         | 57                                |
+| Germany        | 57                                |
+| Belgium        | 51                                |
+| Portugal       | 50                                |
+| Ireland        | 47                                |
+| New Zealand    | 43                                |
+| France         | 42                                |
+| Netherlands    | 40                                |
+| Philippines    | 40                                |
+| Australia      | 40                                |
+| South Korea    | 37                                |
+| Norway         | 36                                |
+| Poland         | 35                                |
+| Canada         | 34                                |
+| Italy          | 33                                |
+| South Africa   | 33                                |
+| Spain          | 27                                |
+| United Kingdom | 26                                |
+| Ukraine        | 21                                |
+| United States  | 21                                |
+| India          | 20                                |
+| Argentina      | 20                                |
+| Russia         | 18                                |
+| Taiwan         | 15                                |
+| Japan          | 13                                |
+| Turkey         | 9                                 |
+| Mexico         | 8                                 |
+| Brazil         | 8                                 |
+| Thailand       | 7                                 |
+| Indonesia      | 5                                 |
