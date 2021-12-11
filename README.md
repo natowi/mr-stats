@@ -12,3 +12,6 @@ Collection of Alicevision Meshroom statistics
 2019	67
 2020	167
 2021	180
+
+![grafik](https://user-images.githubusercontent.com/8138537/145681182-f603384f-168f-46a3-9f04-6e374ad4b782.png)
+
