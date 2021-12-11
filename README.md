@@ -36,7 +36,6 @@ Note: starting 2018 the official Download is provided via Fosshub
 | 2021.1.0 | Win64        | 2595      |	
 		
 https://tooomm.github.io/github-release-stats/?username=alicevision&repository=meshroom		
-![grafik](https://user-images.githubusercontent.com/8138537/145681512-5128cca5-f3b1-4c56-8115-c537be96f4cf.png)
 
 # Fosshub downloads 2018-12/2021
 1.026.767 Releases were downloaded via Fosshub ever since
