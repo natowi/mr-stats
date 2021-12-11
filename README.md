@@ -42,11 +42,13 @@ https://tooomm.github.io/github-release-stats/?username=alicevision&repository=m
 
 # Google Search Stats
 
+Note: "A higher score does not mean that there are more searches overall, but that the proportion of all searches is higher. So in a small country where 80% of the searches contain the word "Meshroom", the score is double that of a large country where only 40% of the searches contain the word "Meshroom"."
+
 ![grafik](https://user-images.githubusercontent.com/8138537/145682345-b1120ba2-1568-47c2-b321-5bde0944b7b7.png)
 
 https://trends.google.com/trends/explore?date=all&q=agisoft,Meshroom,%2Fg%2F11c0rpp8sf
 
-Searches by country
+Searches by country (see note)
 
 | Country        | Meshroom: (01.01.04 bis 11.12.21) |
 | -------------- | --------------------------------- |
