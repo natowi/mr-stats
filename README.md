@@ -17,7 +17,9 @@ Collection of Alicevision Meshroom statistics
 
 ![grafik](https://user-images.githubusercontent.com/8138537/145681182-f603384f-168f-46a3-9f04-6e374ad4b782.png)
 
-Github Downloads of Releases
+# Github Downloads of Releases
+
+Note: starting 2018 the official Download is provided via Fosshub
 
 | Release  | Distribution | Downloads |
 | -------- | ------------ | --------- |
@@ -36,5 +38,5 @@ Github Downloads of Releases
 https://tooomm.github.io/github-release-stats/?username=alicevision&repository=meshroom		
 ![grafik](https://user-images.githubusercontent.com/8138537/145681512-5128cca5-f3b1-4c56-8115-c537be96f4cf.png)
 
-Note: starting 2018 the official Download is provided via Fosshub
+# Fosshub downloads 2018-12/2021
 1.026.767 Releases were downloaded via Fosshub ever since
