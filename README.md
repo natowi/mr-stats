@@ -86,3 +86,8 @@ Searches by country (see note)
 | Brazil         | 8                                 |
 | Thailand       | 7                                 |
 | Indonesia      | 5                                 |
+
+## Stars
+![star-history-2023418](https://user-images.githubusercontent.com/8138537/232889454-d2a7a6cc-3f64-45a0-b4e9-8431a0ce4074.png)
+
+
