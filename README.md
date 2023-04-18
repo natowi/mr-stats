@@ -88,6 +88,6 @@ Searches by country (see note)
 | Indonesia      | 5                                 |
 
 ## Stars
-![star-history-2023418](https://user-images.githubusercontent.com/8138537/232889454-d2a7a6cc-3f64-45a0-b4e9-8431a0ce4074.png)
+![grafik](https://user-images.githubusercontent.com/8138537/232889908-3da6430c-1767-4b3d-8e39-88106bfae607.png)
 
 
